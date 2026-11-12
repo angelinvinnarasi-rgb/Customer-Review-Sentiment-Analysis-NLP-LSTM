@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tensorflow
 numpy
 pandas
@@ -6,3 +7,13 @@ scikit-learn
 nltk
 jupyter
 ipykernel
+=======
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+jupyter
+ipykernel
+>>>>>>> d442f24e841c32a76231e0eff7909a110479365d
