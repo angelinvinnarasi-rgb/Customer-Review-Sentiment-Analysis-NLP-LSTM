@@ -102,7 +102,7 @@ Customer_Review_Sentiment_Analysis/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/angelinvinnarasi-rgb/Customer-Review-Sentiment-Analysis-NLP-LSTM.git
 ```
 
 Navigate to the project directory:
@@ -239,7 +239,7 @@ Customer_Review_Sentiment_Analysis/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/angelinvinnarasi-rgb/Customer-Review-Sentiment-Analysis-NLP-LSTM.git
 ```
 
 Navigate to the project directory:
