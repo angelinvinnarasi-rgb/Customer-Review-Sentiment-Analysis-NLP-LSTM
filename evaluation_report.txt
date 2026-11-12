@@ -1,0 +1,20 @@
+CUSTOMER REVIEW SENTIMENT ANALYSIS
+
+Accuracy: 0.8085
+Precision: 0.7506
+Recall: 0.9239
+F1 Score: 0.8283
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.69      0.78     12500
+           1       0.75      0.92      0.83     12500
+
+    accuracy                           0.81     25000
+   macro avg       0.83      0.81      0.81     25000
+weighted avg       0.83      0.81      0.81     25000
+
+Confusion Matrix:
+[[ 8663  3837]
+ [  951 11549]]
