@@ -79,4 +79,59 @@ The project uses the built-in IMDB movie review dataset from Keras to train and 
 ## Project Structure
 
 ```text
-Customer_Review_Sentiment_
+Customer_Review_Sentiment_Analysis/
+│
+├── models/
+│   └── lstm_sentiment_model.keras
+│
+├── outputs/
+│   ├── accuracy_graph.png
+│   ├── loss_graph.png
+│   ├── confusion_matrix.png
+│   ├── actual_vs_predicted.png
+│   └── evaluation_report.txt
+│
+├── Customer_Review_Sentiment_Analysis.ipynb
+├── README.md
+└── requirements.txt
+```
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+Navigate to the project directory:
+
+```bash
+cd Customer_Review_Sentiment_Analysis
+```
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+## How to Run
+
+1. Open the project folder in Visual Studio Code.
+2. Open `Customer_Review_Sentiment_Analysis.ipynb`.
+3. Select the Python environment with the required libraries installed.
+4. Run the notebook cells in order.
+5. Review the model evaluation results and generated visualizations.
+
+## Conclusion
+
+This project demonstrates how NLP techniques and LSTM neural networks can be used to classify customer reviews based on sentiment. The trained model achieved **80.85% test accuracy** on the IMDB dataset.
+
+The project provided practical experience in text preprocessing, word embeddings, deep learning, model evaluation, and sentiment analysis.
+
+## Author
+
+**Elaiyarasi E**
+
+Data Science and Machine Learning Enthusiast
